@@ -1,4 +1,4 @@
-# Portfolio
+# Hooke's Law Educational Application using Python
 This project was possible with my collegues who were in Computer Science Foundation Programme at University of Southampton using Python.
 The purpose of this project is to create an educational application model for students to get hang of the topic "Hooke's Law" in Physics class. 
 

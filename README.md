@@ -10,9 +10,10 @@ main_window.py - Main menu to access all the learning experiences
 Theory.py - Window for learning theoretical asepcts of the Hooke's Law
 
 main_parallel.py 
-main_seperate.py } - 3 types of virtual experience windows for students to try out 3 different types of experiments (Parallel, seperate and series).
+main_seperate.py 
 main_series.py
-
+- 3 types of virtual experience windows for students to try out 3 different types of experiments (Parallel, seperate and series).
+  
 Credit part.py - Credits of the team members
 
 The single image file (Hooke.jpg) was downloaded from google for main menu window design.
